@@ -1,4 +1,4 @@
-# Java EE practice project
+# Java EE first lab
 Project is based on *Maven*, thus import project to IntelliJ IDEA by:
 * File -> Open... -> pick `pom.xml` file.
 
